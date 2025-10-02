@@ -1,0 +1,206 @@
+{
+  "id": "technical-communication",
+  "name": "Technical Communication",
+  "code": "ENG101",
+  "units": [
+    {
+      "unitNumber": 1,
+      "title": "English Grammar Fundamentals",
+      "topics": [
+        {
+          "id": "tc-u1-t1",
+          "title": "Parts of Speech",
+          "subtopics": [
+            "Nouns, pronouns, and articles",
+            "Verbs: tenses and voice",
+            "Adjectives and adverbs",
+            "Prepositions and conjunctions",
+            "Interjections"
+          ]
+        },
+        {
+          "id": "tc-u1-t2",
+          "title": "Sentence Structure",
+          "subtopics": [
+            "Simple, compound, and complex sentences",
+            "Subject-verb agreement",
+            "Active and passive voice",
+            "Direct and indirect speech",
+            "Common grammatical errors"
+          ]
+        },
+        {
+          "id": "tc-u1-t3",
+          "title": "Punctuation and Mechanics",
+          "subtopics": [
+            "Comma, semicolon, and colon usage",
+            "Apostrophes and quotation marks",
+            "Capitalization rules",
+            "Number and abbreviation conventions"
+          ]
+        }
+      ]
+    },
+    {
+      "unitNumber": 2,
+      "title": "Technical Writing Basics",
+      "topics": [
+        {
+          "id": "tc-u2-t1",
+          "title": "Principles of Technical Writing",
+          "subtopics": [
+            "Clarity, conciseness, and coherence",
+            "Technical vs. general writing",
+            "Audience analysis",
+            "Document planning and organization",
+            "Writing style and tone"
+          ]
+        },
+        {
+          "id": "tc-u2-t2",
+          "title": "Technical Descriptions",
+          "subtopics": [
+            "Product descriptions",
+            "Process descriptions",
+            "Mechanism descriptions",
+            "Use of visuals and diagrams"
+          ]
+        },
+        {
+          "id": "tc-u2-t3",
+          "title": "Instructions and Procedures",
+          "subtopics": [
+            "Writing clear instructions",
+            "Safety warnings and cautions",
+            "Numbered and bulleted lists",
+            "User manuals and guides"
+          ]
+        }
+      ]
+    },
+    {
+      "unitNumber": 3,
+      "title": "Report Writing and Documentation",
+      "topics": [
+        {
+          "id": "tc-u3-t1",
+          "title": "Types of Reports",
+          "subtopics": [
+            "Formal and informal reports",
+            "Progress reports",
+            "Laboratory reports",
+            "Feasibility reports",
+            "Technical proposals"
+          ]
+        },
+        {
+          "id": "tc-u3-t2",
+          "title": "Report Structure",
+          "subtopics": [
+            "Title page and abstract",
+            "Table of contents",
+            "Introduction and objectives",
+            "Methodology and results",
+            "Discussion and conclusions",
+            "References and appendices"
+          ]
+        },
+        {
+          "id": "tc-u3-t3",
+          "title": "Research Documentation",
+          "subtopics": [
+            "Citation styles: APA, MLA, IEEE",
+            "Bibliography and reference lists",
+            "Avoiding plagiarism",
+            "Paraphrasing and summarizing"
+          ]
+        }
+      ]
+    },
+    {
+      "unitNumber": 4,
+      "title": "Professional Communication",
+      "topics": [
+        {
+          "id": "tc-u4-t1",
+          "title": "Email Writing",
+          "subtopics": [
+            "Email structure and format",
+            "Subject lines and greetings",
+            "Professional tone and etiquette",
+            "Email for different purposes",
+            "Avoiding common email mistakes"
+          ]
+        },
+        {
+          "id": "tc-u4-t2",
+          "title": "Business Letters and Memos",
+          "subtopics": [
+            "Business letter formats",
+            "Letters of inquiry and complaint",
+            "Job application letters",
+            "Memorandum writing"
+          ]
+        },
+        {
+          "id": "tc-u4-t3",
+          "title": "Presentation Skills",
+          "subtopics": [
+            "Presentation planning and structure",
+            "Designing effective slides",
+            "Verbal and non-verbal communication",
+            "Handling questions and feedback",
+            "Using presentation software",
+            "Time management in presentations"
+          ]
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "type": "pdf",
+      "title": "Technical Writing Handbook",
+      "url": "#",
+      "description": "Comprehensive guide to technical writing"
+    },
+    {
+      "type": "video",
+      "title": "Effective Presentation Skills",
+      "url": "https://www.youtube.com/watch?v=example6",
+      "description": "How to deliver impactful presentations"
+    },
+    {
+      "type": "link",
+      "title": "Purdue OWL Writing Resources",
+      "url": "https://owl.purdue.edu/",
+      "description": "Online writing lab with comprehensive resources"
+    },
+    {
+      "type": "pdf",
+      "title": "Email Etiquette Guide",
+      "url": "#",
+      "description": "Professional email writing guidelines"
+    }
+  ],
+  "assignments": [
+    {
+      "id": "tc-assign-1",
+      "title": "Technical Report Writing",
+      "description": "Write a technical report on a recent laboratory experiment",
+      "dueDate": "2025-10-17"
+    },
+    {
+      "id": "tc-assign-2",
+      "title": "Professional Email Exercise",
+      "description": "Compose formal emails for various professional scenarios",
+      "dueDate": "2025-10-24"
+    },
+    {
+      "id": "tc-assign-3",
+      "title": "Technical Presentation",
+      "description": "Prepare and deliver a 10-minute technical presentation",
+      "dueDate": "2025-10-31"
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "id": "environmental-science",
+  "name": "Environmental Science",
+  "code": "ENV101",
+  "units": [
+    {
+      "unitNumber": 1,
+      "title": "Ecosystems and Biodiversity",
+      "topics": [
+        {
+          "id": "env-u1-t1",
+          "title": "Introduction to Ecosystems",
+          "subtopics": [
+            "Definition and components of ecosystems",
+            "Types of ecosystems: terrestrial and aquatic",
+            "Food chains and food webs",
+            "Energy flow in ecosystems",
+            "Ecological pyramids"
+          ]
+        },
+        {
+          "id": "env-u1-t2",
+          "title": "Biodiversity",
+          "subtopics": [
+            "Levels of biodiversity: genetic, species, ecosystem",
+            "Biodiversity hotspots",
+            "Importance of biodiversity",
+            "Threats to biodiversity",
+            "Conservation strategies"
+          ]
+        },
+        {
+          "id": "env-u1-t3",
+          "title": "Biogeochemical Cycles",
+          "subtopics": [
+            "Water cycle",
+            "Carbon cycle",
+            "Nitrogen cycle",
+            "Phosphorus cycle",
+            "Sulfur cycle"
+          ]
+        }
+      ]
+    },
+    {
+      "unitNumber": 2,
+      "title": "Natural Resources",
+      "topics": [
+        {
+          "id": "env-u2-t1",
+          "title": "Forest Resources",
+          "subtopics": [
+            "Types of forests",
+            "Importance of forests",
+            "Deforestation causes and effects",
+            "Forest conservation",
+            "Afforestation and reforestation"
+          ]
+        },
+        {
+          "id": "env-u2-t2",
+          "title": "Water Resources",
+          "subtopics": [
+            "Distribution of water on Earth",
+            "Water scarcity and stress",
+            "Surface and groundwater",
+            "Water conservation methods",
+            "Rainwater harvesting",
+            "Watershed management"
+          ]
+        },
+        {
+          "id": "env-u2-t3",
+          "title": "Mineral and Energy Resources",
+          "subtopics": [
+            "Renewable vs. non-renewable resources",
+            "Fossil fuels and their impact",
+            "Alternative energy sources",
+            "Sustainable resource use",
+            "Circular economy"
+          ]
+        }
+      ]
+    },
+    {
+      "unitNumber": 3,
+      "title": "Environmental Pollution",
+      "topics": [
+        {
+          "id": "env-u3-t1",
+          "title": "Air Pollution",
+          "subtopics": [
+            "Sources and types of air pollutants",
+            "Smog and acid rain",
+            "Indoor air pollution",
+            "Health effects",
+            "Control measures: scrubbers, filters, catalytic converters"
+          ]
+        },
+        {
+          "id": "env-u3-t2",
+          "title": "Water Pollution",
+          "subtopics": [
+            "Sources: point and non-point",
+            "Types of water pollutants",
+            "Eutrophication",
+            "Water quality parameters",
+            "Treatment and prevention"
+          ]
+        },
+        {
+          "id": "env-u3-t3",
+          "title": "Soil and Noise Pollution",
+          "subtopics": [
+            "Soil pollution sources and effects",
+            "Soil degradation and erosion",
+            "Solid waste management",
+            "Noise pollution: sources, effects, control",
+            "E-waste management"
+          ]
+        }
+      ]
+    },
+    {
+      "unitNumber": 4,
+      "title": "Climate Change and Sustainability",
+      "topics": [
+        {
+          "id": "env-u4-t1",
+          "title": "Climate Change",
+          "subtopics": [
+            "Greenhouse effect and global warming",
+            "Causes of climate change",
+            "Effects: sea level rise, extreme weather",
+            "Climate change mitigation",
+            "Adaptation strategies",
+            "International agreements: Paris Agreement"
+          ]
+        },
+        {
+          "id": "env-u4-t2",
+          "title": "Sustainable Development",
+          "subtopics": [
+            "Concept and principles",
+            "UN Sustainable Development Goals (SDGs)",
+            "Sustainable consumption and production",
+            "Green technologies",
+            "Corporate social responsibility"
+          ]
+        },
+        {
+          "id": "env-u4-t3",
+          "title": "Environmental Policies and Laws",
+          "subtopics": [
+            "Environmental legislation in India",
+            "Environmental Impact Assessment (EIA)",
+            "Pollution Control Boards",
+            "International environmental treaties",
+            "Public participation and awareness"
+          ]
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "type": "pdf",
+      "title": "Environmental Science Complete Notes",
+      "url": "#",
+      "description": "Comprehensive study material for all units"
+    },
+    {
+      "type": "video",
+      "title": "Climate Change Documentary",
+      "url": "https://www.youtube.com/watch?v=example7",
+      "description": "Understanding global climate change"
+    },
+    {
+      "type": "link",
+      "title": "UN Environment Programme",
+      "url": "https://www.unep.org/",
+      "description": "Global environmental resources and reports"
+    },
+    {
+      "type": "pdf",
+      "title": "Biodiversity Conservation Guide",
+      "url": "#",
+      "description": "Methods and strategies for biodiversity protection"
+    },
+    {
+      "type": "video",
+      "title": "Sustainable Development Goals",
+      "url": "https://www.youtube.com/watch?v=example8",
+      "description": "Introduction to UN SDGs"
+    }
+  ],
+  "assignments": [
+    {
+      "id": "env-assign-1",
+      "title": "Ecosystem Analysis",
+      "description": "Study a local ecosystem and prepare detailed report",
+      "dueDate": "2025-10-21"
+    },
+    {
+      "id": "env-assign-2",
+      "title": "Pollution Case Study",
+      "description": "Analyze a pollution problem and propose solutions",
+      "dueDate": "2025-10-27"
+    },
+    {
+      "id": "env-assign-3",
+      "title": "Sustainability Project",
+      "description": "Design a sustainability initiative for college campus",
+      "dueDate": "2025-11-03"
+    }
+  ]
+}

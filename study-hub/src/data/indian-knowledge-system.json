@@ -1,0 +1,211 @@
+{
+  "id": "indian-knowledge-system",
+  "name": "Indian Knowledge System",
+  "code": "IKS101",
+  "units": [
+    {
+      "unitNumber": 1,
+      "title": "Introduction to IKS",
+      "topics": [
+        {
+          "id": "iks-u1-t1",
+          "title": "Overview of Indian Knowledge Systems",
+          "subtopics": [
+            "Definition and scope of IKS",
+            "Historical development",
+            "Knowledge traditions in India",
+            "Oral and written traditions",
+            "Relevance in modern context"
+          ]
+        },
+        {
+          "id": "iks-u1-t2",
+          "title": "Ancient Indian Education System",
+          "subtopics": [
+            "Gurukula system",
+            "Nalanda and Takshashila universities",
+            "Methods of teaching and learning",
+            "Curriculum in ancient India"
+          ]
+        },
+        {
+          "id": "iks-u1-t3",
+          "title": "Indian Philosophy",
+          "subtopics": [
+            "Six schools of Indian philosophy (Darshanas)",
+            "Vedanta philosophy",
+            "Buddhist and Jain philosophy",
+            "Concepts: Dharma, Karma, Moksha"
+          ]
+        }
+      ]
+    },
+    {
+      "unitNumber": 2,
+      "title": "Vedic Mathematics",
+      "topics": [
+        {
+          "id": "iks-u2-t1",
+          "title": "Introduction to Vedic Mathematics",
+          "subtopics": [
+            "History and rediscovery by Bharati Krishna Tirthaji",
+            "16 Sutras of Vedic Mathematics",
+            "Advantages of Vedic methods",
+            "Applications in modern calculations"
+          ]
+        },
+        {
+          "id": "iks-u2-t2",
+          "title": "Vedic Mathematical Techniques",
+          "subtopics": [
+            "Nikhilam method for multiplication",
+            "Urdhva-Tiryagbhyam (vertical and crosswise)",
+            "Division techniques",
+            "Square and cube calculations",
+            "Solving algebraic equations"
+          ]
+        },
+        {
+          "id": "iks-u2-t3",
+          "title": "Practical Applications",
+          "subtopics": [
+            "Mental math techniques",
+            "Speed calculation methods",
+            "Problem-solving using Vedic methods",
+            "Competitive exam applications"
+          ]
+        }
+      ]
+    },
+    {
+      "unitNumber": 3,
+      "title": "Indian Contributions to Science & Technology",
+      "topics": [
+        {
+          "id": "iks-u3-t1",
+          "title": "Mathematics and Astronomy",
+          "subtopics": [
+            "Aryabhata's contributions: zero, place value system",
+            "Brahmagupta's work on algebra",
+            "Bhaskaracharya and differential calculus",
+            "Indian astronomers: Varahamihira, Bhaskara",
+            "Ancient astronomical instruments"
+          ]
+        },
+        {
+          "id": "iks-u3-t2",
+          "title": "Medicine and Healthcare",
+          "subtopics": [
+            "Ayurveda: principles and treatments",
+            "Sushruta Samhita: ancient surgery",
+            "Charaka Samhita: medicine and diagnosis",
+            "Yoga and its scientific basis",
+            "Traditional healing practices"
+          ]
+        },
+        {
+          "id": "iks-u3-t3",
+          "title": "Metallurgy and Architecture",
+          "subtopics": [
+            "Ancient Indian metallurgy: iron pillar of Delhi",
+            "Temple architecture: Vaastu Shastra",
+            "Water management: stepwells, tanks",
+            "Textile technology",
+            "Ship building and maritime knowledge"
+          ]
+        }
+      ]
+    },
+    {
+      "unitNumber": 4,
+      "title": "Ethics and Values in IKS",
+      "topics": [
+        {
+          "id": "iks-u4-t1",
+          "title": "Ethical Principles",
+          "subtopics": [
+            "Concept of Dharma (righteousness)",
+            "Satya (truth) and Ahimsa (non-violence)",
+            "Karma theory and its implications",
+            "Ethical conduct in Bhagavad Gita",
+            "Environmental ethics in Indian tradition"
+          ]
+        },
+        {
+          "id": "iks-u4-t2",
+          "title": "Social Values",
+          "subtopics": [
+            "Concept of Vasudhaiva Kutumbakam (world as family)",
+            "Respect for diversity",
+            "Social responsibility",
+            "Community living and cooperation",
+            "Gender perspectives in ancient texts"
+          ]
+        },
+        {
+          "id": "iks-u4-t3",
+          "title": "Integration with Modern Science",
+          "subtopics": [
+            "Relevance of IKS in contemporary world",
+            "Scientific validation of traditional knowledge",
+            "Combining ancient wisdom with modern technology",
+            "Sustainable practices from IKS",
+            "Future prospects"
+          ]
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "type": "pdf",
+      "title": "Indian Knowledge System Complete Guide",
+      "url": "#",
+      "description": "Comprehensive overview of IKS concepts"
+    },
+    {
+      "type": "video",
+      "title": "Vedic Mathematics Tutorial",
+      "url": "https://www.youtube.com/watch?v=example9",
+      "description": "Learn Vedic math techniques"
+    },
+    {
+      "type": "link",
+      "title": "Ancient Indian Science Portal",
+      "url": "#",
+      "description": "Resources on Indian scientific contributions"
+    },
+    {
+      "type": "pdf",
+      "title": "Ayurveda Fundamentals",
+      "url": "#",
+      "description": "Introduction to Ayurvedic principles"
+    },
+    {
+      "type": "video",
+      "title": "Indian Philosophy Lectures",
+      "url": "https://www.youtube.com/watch?v=example10",
+      "description": "Series on Indian philosophical schools"
+    }
+  ],
+  "assignments": [
+    {
+      "id": "iks-assign-1",
+      "title": "Vedic Mathematics Practice",
+      "description": "Solve mathematical problems using Vedic techniques",
+      "dueDate": "2025-10-20"
+    },
+    {
+      "id": "iks-assign-2",
+      "title": "Indian Scientific Contribution Essay",
+      "description": "Research and write about an Indian scientist's contribution",
+      "dueDate": "2025-10-25"
+    },
+    {
+      "id": "iks-assign-3",
+      "title": "Ethics Case Study",
+      "description": "Analyze a modern problem using IKS ethical principles",
+      "dueDate": "2025-11-01"
+    }
+  ]
+}

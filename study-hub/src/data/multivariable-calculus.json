@@ -1,0 +1,208 @@
+{
+  "id": "multivariable-calculus",
+  "name": "Multivariable Calculus",
+  "code": "MAT101",
+  "units": [
+    {
+      "unitNumber": 1,
+      "title": "Functions of Several Variables",
+      "topics": [
+        {
+          "id": "calc-u1-t1",
+          "title": "Limits and Continuity",
+          "subtopics": [
+            "Functions of two or more variables",
+            "Domain and range visualization",
+            "Level curves and surfaces",
+            "Limits along paths",
+            "Continuity in multiple dimensions"
+          ]
+        },
+        {
+          "id": "calc-u1-t2",
+          "title": "Partial Derivatives",
+          "subtopics": [
+            "First-order partial derivatives",
+            "Higher-order partial derivatives",
+            "Mixed partial derivatives and Clairaut's theorem",
+            "Implicit differentiation"
+          ]
+        },
+        {
+          "id": "calc-u1-t3",
+          "title": "Chain Rule and Applications",
+          "subtopics": [
+            "Chain rule for multivariable functions",
+            "Directional derivatives",
+            "Gradient vector",
+            "Tangent planes and linear approximations"
+          ]
+        }
+      ]
+    },
+    {
+      "unitNumber": 2,
+      "title": "Optimization and Extrema",
+      "topics": [
+        {
+          "id": "calc-u2-t1",
+          "title": "Maxima and Minima",
+          "subtopics": [
+            "Critical points",
+            "Second derivative test",
+            "Local and absolute extrema",
+            "Saddle points"
+          ]
+        },
+        {
+          "id": "calc-u2-t2",
+          "title": "Constrained Optimization",
+          "subtopics": [
+            "Lagrange multipliers method",
+            "Optimization with one constraint",
+            "Multiple constraints",
+            "Applications to real-world problems"
+          ]
+        },
+        {
+          "id": "calc-u2-t3",
+          "title": "Applications of Partial Derivatives",
+          "subtopics": [
+            "Errors and differentials",
+            "Maxima and minima in applications",
+            "Economics applications",
+            "Engineering applications"
+          ]
+        }
+      ]
+    },
+    {
+      "unitNumber": 3,
+      "title": "Multiple Integrals",
+      "topics": [
+        {
+          "id": "calc-u3-t1",
+          "title": "Double Integrals",
+          "subtopics": [
+            "Double integrals over rectangles",
+            "Double integrals over general regions",
+            "Change of order of integration",
+            "Applications: area, volume, mass"
+          ]
+        },
+        {
+          "id": "calc-u3-t2",
+          "title": "Triple Integrals",
+          "subtopics": [
+            "Triple integrals in Cartesian coordinates",
+            "Volume calculations",
+            "Center of mass and moments of inertia",
+            "Applications in physics"
+          ]
+        },
+        {
+          "id": "calc-u3-t3",
+          "title": "Change of Variables",
+          "subtopics": [
+            "Polar coordinates",
+            "Cylindrical coordinates",
+            "Spherical coordinates",
+            "Jacobian determinant",
+            "Change of variables theorem"
+          ]
+        }
+      ]
+    },
+    {
+      "unitNumber": 4,
+      "title": "Vector Calculus",
+      "topics": [
+        {
+          "id": "calc-u4-t1",
+          "title": "Vector Fields",
+          "subtopics": [
+            "Definition and visualization",
+            "Gradient, divergence, and curl",
+            "Conservative vector fields",
+            "Potential functions"
+          ]
+        },
+        {
+          "id": "calc-u4-t2",
+          "title": "Line Integrals",
+          "subtopics": [
+            "Line integrals of scalar functions",
+            "Line integrals of vector fields",
+            "Work and circulation",
+            "Fundamental theorem for line integrals",
+            "Green's theorem"
+          ]
+        },
+        {
+          "id": "calc-u4-t3",
+          "title": "Surface Integrals",
+          "subtopics": [
+            "Parametric surfaces",
+            "Surface integrals of scalar functions",
+            "Surface integrals of vector fields (flux)",
+            "Stokes' theorem",
+            "Divergence theorem (Gauss's theorem)",
+            "Applications in fluid dynamics and electromagnetism"
+          ]
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "type": "pdf",
+      "title": "Multivariable Calculus Textbook",
+      "url": "#",
+      "description": "Complete textbook with solved examples"
+    },
+    {
+      "type": "video",
+      "title": "MIT OpenCourseWare - Multivariable Calculus",
+      "url": "https://ocw.mit.edu/courses/mathematics/",
+      "description": "Complete video lecture series"
+    },
+    {
+      "type": "link",
+      "title": "3D Calculus Visualizations",
+      "url": "https://www.geogebra.org/",
+      "description": "Interactive 3D graphing tools"
+    },
+    {
+      "type": "pdf",
+      "title": "Vector Calculus Study Guide",
+      "url": "#",
+      "description": "Comprehensive guide to vector calculus"
+    },
+    {
+      "type": "video",
+      "title": "Khan Academy Multivariable Calculus",
+      "url": "https://www.khanacademy.org/math/multivariable-calculus",
+      "description": "Free video tutorials"
+    }
+  ],
+  "assignments": [
+    {
+      "id": "calc-assign-1",
+      "title": "Partial Derivatives Problem Set",
+      "description": "Solve problems on partial derivatives and applications",
+      "dueDate": "2025-10-19"
+    },
+    {
+      "id": "calc-assign-2",
+      "title": "Multiple Integrals Assignment",
+      "description": "Calculate double and triple integrals for given regions",
+      "dueDate": "2025-10-26"
+    },
+    {
+      "id": "calc-assign-3",
+      "title": "Vector Calculus Applications",
+      "description": "Apply Green's theorem and Stokes' theorem to solve problems",
+      "dueDate": "2025-11-02"
+    }
+  ]
+}

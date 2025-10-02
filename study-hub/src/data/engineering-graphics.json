@@ -1,0 +1,198 @@
+{
+  "id": "engineering-graphics",
+  "name": "Engineering Graphics",
+  "code": "EGD101",
+  "units": [
+    {
+      "unitNumber": 1,
+      "title": "Basics of Engineering Drawing",
+      "topics": [
+        {
+          "id": "eg-u1-t1",
+          "title": "Drawing Instruments and Standards",
+          "subtopics": [
+            "Drawing instruments: compass, divider, protractor, scales",
+            "Drawing sheets and layouts",
+            "Lines: types and conventions",
+            "Lettering and dimensioning",
+            "BIS standards for engineering drawings"
+          ]
+        },
+        {
+          "id": "eg-u1-t2",
+          "title": "Geometric Constructions",
+          "subtopics": [
+            "Construction of polygons",
+            "Construction of ellipse, parabola, hyperbola",
+            "Tangents and normals",
+            "Involutes and cycloids"
+          ]
+        },
+        {
+          "id": "eg-u1-t3",
+          "title": "Scales",
+          "subtopics": [
+            "Plain scales",
+            "Diagonal scales",
+            "Vernier scales",
+            "Comparative scales"
+          ]
+        }
+      ]
+    },
+    {
+      "unitNumber": 2,
+      "title": "Orthographic Projections",
+      "topics": [
+        {
+          "id": "eg-u2-t1",
+          "title": "Principles of Projection",
+          "subtopics": [
+            "First angle and third angle projection",
+            "Reference planes: horizontal and vertical",
+            "Projection of points",
+            "Projection of lines in different positions"
+          ]
+        },
+        {
+          "id": "eg-u2-t2",
+          "title": "Projection of Planes",
+          "subtopics": [
+            "Projection of regular planes",
+            "Planes parallel to reference planes",
+            "Planes perpendicular to reference planes",
+            "Planes inclined to both reference planes"
+          ]
+        },
+        {
+          "id": "eg-u2-t3",
+          "title": "Projection of Solids",
+          "subtopics": [
+            "Projection of prisms",
+            "Projection of pyramids",
+            "Projection of cylinders and cones",
+            "Solids in various positions"
+          ]
+        }
+      ]
+    },
+    {
+      "unitNumber": 3,
+      "title": "Isometric and Sectional Views",
+      "topics": [
+        {
+          "id": "eg-u3-t1",
+          "title": "Isometric Projections",
+          "subtopics": [
+            "Isometric scale",
+            "Isometric views of simple objects",
+            "Isometric views of planes and solids",
+            "Conversion from orthographic to isometric"
+          ]
+        },
+        {
+          "id": "eg-u3-t2",
+          "title": "Sectional Views",
+          "subtopics": [
+            "Need for sectional views",
+            "Types of sections: full, half, offset",
+            "Section planes and cutting planes",
+            "Sectioning conventions",
+            "Hatching patterns for different materials"
+          ]
+        },
+        {
+          "id": "eg-u3-t3",
+          "title": "Auxiliary Views",
+          "subtopics": [
+            "Purpose of auxiliary views",
+            "Primary auxiliary views",
+            "True shape and size determination"
+          ]
+        }
+      ]
+    },
+    {
+      "unitNumber": 4,
+      "title": "CAD Fundamentals",
+      "topics": [
+        {
+          "id": "eg-u4-t1",
+          "title": "Introduction to CAD",
+          "subtopics": [
+            "CAD software overview (AutoCAD, SolidWorks, CATIA)",
+            "Advantages of CAD over manual drawing",
+            "CAD file formats",
+            "Coordinate systems in CAD"
+          ]
+        },
+        {
+          "id": "eg-u4-t2",
+          "title": "2D Drawing in CAD",
+          "subtopics": [
+            "Basic drawing commands: line, circle, arc, polygon",
+            "Editing commands: move, copy, rotate, mirror",
+            "Layer management",
+            "Dimensioning and text annotation"
+          ]
+        },
+        {
+          "id": "eg-u4-t3",
+          "title": "3D Modeling Basics",
+          "subtopics": [
+            "Wireframe, surface, and solid modeling",
+            "Extrude, revolve, sweep operations",
+            "Boolean operations",
+            "Rendering and visualization"
+          ]
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "type": "pdf",
+      "title": "Engineering Graphics Textbook",
+      "url": "#",
+      "description": "Complete textbook with solved examples"
+    },
+    {
+      "type": "video",
+      "title": "Orthographic Projection Tutorial",
+      "url": "https://www.youtube.com/watch?v=example3",
+      "description": "Step-by-step guide to orthographic projections"
+    },
+    {
+      "type": "link",
+      "title": "AutoCAD Basics Course",
+      "url": "https://www.autodesk.com/learn",
+      "description": "Free AutoCAD learning resources"
+    },
+    {
+      "type": "pdf",
+      "title": "Isometric Drawing Practice Sheets",
+      "url": "#",
+      "description": "Practice problems for isometric projections"
+    }
+  ],
+  "assignments": [
+    {
+      "id": "eg-assign-1",
+      "title": "Orthographic Projection Drawing",
+      "description": "Draw orthographic projections of given objects",
+      "dueDate": "2025-10-18"
+    },
+    {
+      "id": "eg-assign-2",
+      "title": "Isometric View Construction",
+      "description": "Convert orthographic views to isometric views",
+      "dueDate": "2025-10-22"
+    },
+    {
+      "id": "eg-assign-3",
+      "title": "CAD Drawing Assignment",
+      "description": "Create 2D drawing and 3D model using CAD software",
+      "dueDate": "2025-10-28"
+    }
+  ]
+}

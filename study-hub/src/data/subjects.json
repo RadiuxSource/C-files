@@ -1,0 +1,58 @@
+[
+  {
+    "id": "engineering-chemistry",
+    "name": "Engineering Chemistry",
+    "code": "CHM101",
+    "description": "Comprehensive chemistry course covering general chemistry, energy systems, materials, and water chemistry",
+    "color": "bg-blue-500",
+    "icon": "⚗️"
+  },
+  {
+    "id": "engineering-graphics",
+    "name": "Engineering Graphics",
+    "code": "EGD101",
+    "description": "Engineering drawing fundamentals, projections, and CAD introduction",
+    "color": "bg-purple-500",
+    "icon": "📐"
+  },
+  {
+    "id": "basics-of-energy",
+    "name": "Basics of Energy",
+    "code": "ENE101",
+    "description": "Energy sources, conversion, efficiency, and power systems",
+    "color": "bg-yellow-500",
+    "icon": "⚡"
+  },
+  {
+    "id": "technical-communication",
+    "name": "Technical Communication",
+    "code": "ENG101",
+    "description": "Technical writing, presentation skills, and professional communication",
+    "color": "bg-green-500",
+    "icon": "✍️"
+  },
+  {
+    "id": "multivariable-calculus",
+    "name": "Multivariable Calculus",
+    "code": "MAT101",
+    "description": "Advanced calculus including partial derivatives, multiple integrals, and vector calculus",
+    "color": "bg-red-500",
+    "icon": "∫"
+  },
+  {
+    "id": "environmental-science",
+    "name": "Environmental Science",
+    "code": "ENV101",
+    "description": "Ecosystems, biodiversity, pollution, and sustainable development",
+    "color": "bg-teal-500",
+    "icon": "🌍"
+  },
+  {
+    "id": "indian-knowledge-system",
+    "name": "Indian Knowledge System",
+    "code": "IKS101",
+    "description": "Introduction to IKS, Vedic mathematics, and Indian contributions to science",
+    "color": "bg-orange-500",
+    "icon": "🕉️"
+  }
+]

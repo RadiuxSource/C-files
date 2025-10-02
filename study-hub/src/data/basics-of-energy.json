@@ -1,0 +1,212 @@
+{
+  "id": "basics-of-energy",
+  "name": "Basics of Energy",
+  "code": "ENE101",
+  "units": [
+    {
+      "unitNumber": 1,
+      "title": "Energy Sources and Classification",
+      "topics": [
+        {
+          "id": "energy-u1-t1",
+          "title": "Introduction to Energy",
+          "subtopics": [
+            "Definition and forms of energy",
+            "Energy units: joule, calorie, kWh",
+            "Energy crisis and sustainability",
+            "Global energy consumption trends"
+          ]
+        },
+        {
+          "id": "energy-u1-t2",
+          "title": "Renewable Energy Sources",
+          "subtopics": [
+            "Solar energy: photovoltaic and thermal",
+            "Wind energy: wind turbines and wind farms",
+            "Hydroelectric power",
+            "Biomass energy",
+            "Geothermal energy",
+            "Ocean energy: tidal and wave"
+          ]
+        },
+        {
+          "id": "energy-u1-t3",
+          "title": "Non-Renewable Energy Sources",
+          "subtopics": [
+            "Fossil fuels: coal, petroleum, natural gas",
+            "Nuclear energy: fission and fusion",
+            "Advantages and disadvantages",
+            "Environmental impact",
+            "Resource depletion"
+          ]
+        }
+      ]
+    },
+    {
+      "unitNumber": 2,
+      "title": "Energy Conversion and Efficiency",
+      "topics": [
+        {
+          "id": "energy-u2-t1",
+          "title": "Energy Conversion Principles",
+          "subtopics": [
+            "Laws of thermodynamics",
+            "Energy conversion devices",
+            "Heat engines and heat pumps",
+            "Carnot cycle and efficiency"
+          ]
+        },
+        {
+          "id": "energy-u2-t2",
+          "title": "Energy Efficiency",
+          "subtopics": [
+            "Definition and calculation",
+            "Energy losses in conversion",
+            "Improving energy efficiency",
+            "Energy conservation techniques",
+            "Energy auditing"
+          ]
+        },
+        {
+          "id": "energy-u2-t3",
+          "title": "Energy Storage Systems",
+          "subtopics": [
+            "Batteries and supercapacitors",
+            "Pumped hydro storage",
+            "Compressed air energy storage",
+            "Flywheel energy storage",
+            "Hydrogen storage"
+          ]
+        }
+      ]
+    },
+    {
+      "unitNumber": 3,
+      "title": "Solar and Wind Energy Systems",
+      "topics": [
+        {
+          "id": "energy-u3-t1",
+          "title": "Solar Energy Technology",
+          "subtopics": [
+            "Solar radiation and measurements",
+            "Photovoltaic systems: cells, modules, arrays",
+            "Solar thermal collectors",
+            "Solar concentrators",
+            "Applications: solar water heaters, solar cookers"
+          ]
+        },
+        {
+          "id": "energy-u3-t2",
+          "title": "Wind Energy Technology",
+          "subtopics": [
+            "Wind characteristics and measurements",
+            "Wind turbine components",
+            "Horizontal and vertical axis turbines",
+            "Wind farm layout and design",
+            "Offshore wind energy"
+          ]
+        },
+        {
+          "id": "energy-u3-t3",
+          "title": "Grid Integration",
+          "subtopics": [
+            "On-grid and off-grid systems",
+            "Power conditioning units",
+            "Energy management systems",
+            "Smart grid technology"
+          ]
+        }
+      ]
+    },
+    {
+      "unitNumber": 4,
+      "title": "Power Plants and Nuclear Energy",
+      "topics": [
+        {
+          "id": "energy-u4-t1",
+          "title": "Thermal Power Plants",
+          "subtopics": [
+            "Coal-fired power plants",
+            "Gas turbine power plants",
+            "Combined cycle power plants",
+            "Components and working principles",
+            "Environmental considerations"
+          ]
+        },
+        {
+          "id": "energy-u4-t2",
+          "title": "Hydroelectric Power Plants",
+          "subtopics": [
+            "Types: run-of-river, storage, pumped storage",
+            "Components: dam, penstock, turbine, generator",
+            "Advantages and environmental impact"
+          ]
+        },
+        {
+          "id": "energy-u4-t3",
+          "title": "Nuclear Power Plants",
+          "subtopics": [
+            "Nuclear fission process",
+            "Nuclear reactor types: PWR, BWR, PHWR",
+            "Reactor components and safety systems",
+            "Nuclear fuel cycle",
+            "Radioactive waste management",
+            "Nuclear safety and regulations"
+          ]
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "type": "pdf",
+      "title": "Renewable Energy Systems Guide",
+      "url": "#",
+      "description": "Comprehensive guide to renewable energy technologies"
+    },
+    {
+      "type": "video",
+      "title": "Solar PV System Design",
+      "url": "https://www.youtube.com/watch?v=example4",
+      "description": "Complete tutorial on solar photovoltaic systems"
+    },
+    {
+      "type": "link",
+      "title": "NREL Renewable Energy Database",
+      "url": "https://www.nrel.gov/",
+      "description": "National Renewable Energy Laboratory resources"
+    },
+    {
+      "type": "video",
+      "title": "Wind Turbine Technology",
+      "url": "https://www.youtube.com/watch?v=example5",
+      "description": "How wind turbines work"
+    },
+    {
+      "type": "pdf",
+      "title": "Nuclear Energy Fundamentals",
+      "url": "#",
+      "description": "Introduction to nuclear power generation"
+    }
+  ],
+  "assignments": [
+    {
+      "id": "energy-assign-1",
+      "title": "Solar Energy Calculation",
+      "description": "Design a solar PV system for a residential building",
+      "dueDate": "2025-10-16"
+    },
+    {
+      "id": "energy-assign-2",
+      "title": "Energy Efficiency Analysis",
+      "description": "Conduct energy audit of college building and suggest improvements",
+      "dueDate": "2025-10-23"
+    },
+    {
+      "id": "energy-assign-3",
+      "title": "Renewable Energy Comparison",
+      "description": "Compare different renewable energy sources for specific location",
+      "dueDate": "2025-10-30"
+    }
+  ]
+}

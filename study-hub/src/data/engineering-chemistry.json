@@ -1,0 +1,292 @@
+{
+  "id": "engineering-chemistry",
+  "name": "Engineering Chemistry",
+  "code": "CHM101",
+  "units": [
+    {
+      "unitNumber": 1,
+      "title": "General Chemistry & Green Chemistry",
+      "topics": [
+        {
+          "id": "chem-u1-t1",
+          "title": "Periodicity and Periodic Properties",
+          "subtopics": [
+            "Modern periodic law",
+            "Periodic trends: atomic radius, ionization energy, electron affinity",
+            "Electronegativity and its applications"
+          ]
+        },
+        {
+          "id": "chem-u1-t2",
+          "title": "Acid-Base Concepts",
+          "subtopics": [
+            "Arrhenius, Bronsted-Lowry, and Lewis concepts",
+            "pH and buffer solutions",
+            "Acid-base indicators"
+          ]
+        },
+        {
+          "id": "chem-u1-t3",
+          "title": "Electrochemistry",
+          "subtopics": [
+            "Galvanic and electrolytic cells",
+            "Standard electrode potentials",
+            "Nernst equation and its applications",
+            "Electrochemical series",
+            "Potentiometric titrations"
+          ]
+        },
+        {
+          "id": "chem-u1-t4",
+          "title": "Green Chemistry",
+          "subtopics": [
+            "12 Principles of green chemistry",
+            "Green solvents and reagents",
+            "Atom economy",
+            "Environmental impact reduction"
+          ]
+        },
+        {
+          "id": "chem-u1-t5",
+          "title": "Greenhouse Effect",
+          "subtopics": [
+            "Greenhouse gases and global warming",
+            "Carbon footprint",
+            "Ozone depletion",
+            "Climate change mitigation"
+          ]
+        }
+      ]
+    },
+    {
+      "unitNumber": 2,
+      "title": "Energy Systems, Catalysis, Surface Chemistry",
+      "topics": [
+        {
+          "id": "chem-u2-t1",
+          "title": "Fuels and Combustion",
+          "subtopics": [
+            "Classification of fuels: solid, liquid, gaseous",
+            "Calorific value: higher and lower heating values",
+            "Bomb calorimeter",
+            "Fuel efficiency and combustion analysis"
+          ]
+        },
+        {
+          "id": "chem-u2-t2",
+          "title": "Batteries and Energy Storage",
+          "subtopics": [
+            "Primary and secondary batteries",
+            "Lead-acid battery",
+            "Lithium-ion batteries",
+            "Fuel cells: hydrogen and methanol",
+            "Supercapacitors"
+          ]
+        },
+        {
+          "id": "chem-u2-t3",
+          "title": "Catalysis",
+          "subtopics": [
+            "Homogeneous and heterogeneous catalysis",
+            "Enzyme catalysis",
+            "Industrial catalytic processes",
+            "Catalyst poisoning and promoters",
+            "Autocatalysis"
+          ]
+        },
+        {
+          "id": "chem-u2-t4",
+          "title": "Adsorption",
+          "subtopics": [
+            "Physical and chemical adsorption",
+            "Langmuir adsorption isotherm",
+            "Freundlich adsorption isotherm",
+            "Applications in industry"
+          ]
+        },
+        {
+          "id": "chem-u2-t5",
+          "title": "BET Method",
+          "subtopics": [
+            "Brunauer-Emmett-Teller theory",
+            "Surface area determination",
+            "Multilayer adsorption",
+            "Applications in materials characterization"
+          ]
+        }
+      ]
+    },
+    {
+      "unitNumber": 3,
+      "title": "Advanced Materials & Applications",
+      "topics": [
+        {
+          "id": "chem-u3-t1",
+          "title": "Liquid Crystals",
+          "subtopics": [
+            "Types: nematic, smectic, cholesteric",
+            "Properties and phase transitions",
+            "LCD technology",
+            "Applications in displays and sensors"
+          ]
+        },
+        {
+          "id": "chem-u3-t2",
+          "title": "Nanomaterials",
+          "subtopics": [
+            "Definition and classification",
+            "Synthesis methods: top-down and bottom-up",
+            "Properties: quantum confinement, surface effects",
+            "Carbon nanotubes and graphene",
+            "Applications: medicine, electronics, energy"
+          ]
+        },
+        {
+          "id": "chem-u3-t3",
+          "title": "Cement",
+          "subtopics": [
+            "Portland cement composition",
+            "Manufacturing process",
+            "Setting and hardening",
+            "Types of cement",
+            "Quality testing"
+          ]
+        },
+        {
+          "id": "chem-u3-t4",
+          "title": "Ceramics",
+          "subtopics": [
+            "Classification: traditional and advanced",
+            "Properties: mechanical, thermal, electrical",
+            "Processing techniques",
+            "Applications in engineering"
+          ]
+        },
+        {
+          "id": "chem-u3-t5",
+          "title": "Refractories and Glasses",
+          "subtopics": [
+            "Refractory materials and properties",
+            "Types: acidic, basic, neutral",
+            "Glass structure and composition",
+            "Glass manufacturing",
+            "Special glasses: tempered, laminated, optical"
+          ]
+        }
+      ]
+    },
+    {
+      "unitNumber": 4,
+      "title": "Water Chemistry & Corrosion",
+      "topics": [
+        {
+          "id": "chem-u4-t1",
+          "title": "Water Hardness",
+          "subtopics": [
+            "Temporary and permanent hardness",
+            "Units: ppm, mg/L, degrees",
+            "Determination by EDTA method",
+            "Problems caused by hard water"
+          ]
+        },
+        {
+          "id": "chem-u4-t2",
+          "title": "Water Quality Parameters",
+          "subtopics": [
+            "BOD (Biochemical Oxygen Demand)",
+            "COD (Chemical Oxygen Demand)",
+            "DO (Dissolved Oxygen)",
+            "pH and alkalinity",
+            "Total dissolved solids"
+          ]
+        },
+        {
+          "id": "chem-u4-t3",
+          "title": "Water Treatment",
+          "subtopics": [
+            "Softening methods: lime-soda, ion exchange",
+            "Disinfection: chlorination, ozonation, UV",
+            "Coagulation and flocculation",
+            "Reverse osmosis",
+            "Municipal water treatment process"
+          ]
+        },
+        {
+          "id": "chem-u4-t4",
+          "title": "Corrosion Types and Mechanisms",
+          "subtopics": [
+            "Dry and wet corrosion",
+            "Galvanic corrosion",
+            "Pitting corrosion",
+            "Crevice corrosion",
+            "Stress corrosion cracking",
+            "Factors affecting corrosion"
+          ]
+        },
+        {
+          "id": "chem-u4-t5",
+          "title": "Corrosion Prevention",
+          "subtopics": [
+            "Material selection",
+            "Protective coatings: paints, anodizing",
+            "Cathodic protection: sacrificial anode, impressed current",
+            "Corrosion inhibitors",
+            "Design considerations"
+          ]
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "type": "pdf",
+      "title": "Engineering Chemistry Complete Notes",
+      "url": "#",
+      "description": "Comprehensive notes covering all units"
+    },
+    {
+      "type": "video",
+      "title": "Electrochemistry Explained",
+      "url": "https://www.youtube.com/watch?v=example1",
+      "description": "Detailed video lecture on electrochemical cells"
+    },
+    {
+      "type": "link",
+      "title": "Green Chemistry Principles",
+      "url": "https://www.acs.org/greenchemistry",
+      "description": "ACS Green Chemistry resources"
+    },
+    {
+      "type": "pdf",
+      "title": "Nanomaterials Study Guide",
+      "url": "#",
+      "description": "Detailed guide on nanomaterials synthesis and applications"
+    },
+    {
+      "type": "video",
+      "title": "Water Treatment Processes",
+      "url": "https://www.youtube.com/watch?v=example2",
+      "description": "Industrial water treatment methods"
+    }
+  ],
+  "assignments": [
+    {
+      "id": "chem-assign-1",
+      "title": "Green Chemistry Case Study",
+      "description": "Analyze a chemical process and propose green chemistry alternatives",
+      "dueDate": "2025-10-15"
+    },
+    {
+      "id": "chem-assign-2",
+      "title": "Electrochemical Cell Calculations",
+      "description": "Solve problems related to Nernst equation and electrode potentials",
+      "dueDate": "2025-10-20"
+    },
+    {
+      "id": "chem-assign-3",
+      "title": "Water Quality Analysis Report",
+      "description": "Analyze water samples and determine BOD, COD, and hardness",
+      "dueDate": "2025-10-25"
+    }
+  ]
+}
