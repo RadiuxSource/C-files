@@ -1,7 +1,7 @@
 [build]
   base = "study-hub"
   command = "npm run build"
-  publish = "dist"
+  publish = "study-hub/dist"
 
 # SPA routing - redirect all routes to index.html
 [[redirects]]
